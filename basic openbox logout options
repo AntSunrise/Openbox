@@ -1,0 +1,6 @@
+terminal commands:
+log out = openbox --exit
+suspend = sudo pm-suspend
+restart = sudo reboot
+shutdown = sudo halt
+
