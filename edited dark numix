@@ -4,7 +4,7 @@
 
 
 # Menu
-menu.border.color: #444444
+menu.border.color: #efefef
 
 menu.title.bg: flat solid
 menu.title.bg.color: #444444
@@ -139,3 +139,4 @@ padding.height: 4
 window.handle.width: 0
 window.client.padding.width: 0
 window.label.text.justify: center
+
